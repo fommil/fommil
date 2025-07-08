@@ -1,6 +1,6 @@
 I like to build complex things in a simple way, and make existing things faster, bigger, and cheaper. I am attracted to technically challenging topics and cross-disciplinary teams. I align with the [Grug Brained Developer](https://grugbrain.dev/) philosophy.
 
-To download my book about Functional Programming in Scala (6k+ readers), go to [leanpub/fpmortals](https://leanpub.com/fpmortals).
+To download my book about Functional Programming (6k+ readers), go to [leanpub/fpmortals](https://leanpub.com/fpmortals).
 
 This collection of repositories (see also my [gitlab/fommil](https://gitlab.com/fommil/) and [gitlab/tseenshe](https://gitlab.com/tseenshe) accounts and [abandoned projects](https://gitlab.com/fommil/attic)) is an example of my contributions to open source. I contribute to the iRacing parts of the simracing assistant [CrewChief](https://gitlab.com/mr_belowski/CrewChiefV4/), hope to see you on the track.
 
