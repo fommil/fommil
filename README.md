@@ -1,7 +1,5 @@
 I like to build complex and highly scalable things in a simple way, and make existing things run faster, bigger, and cheaper. I am attracted to technically challenging topics and cross-disciplinary teams. I align with the [Grug Brained Developer](https://grugbrain.dev/) philosophy.
 
-To see my work experience, go to [linkedin/samhalliday](https://www.linkedin.com/in/samhalliday/).
-
 To download my book about Functional Programming in Scala (6k+ readers), go to [leanpub/fpmortals](https://leanpub.com/fpmortals).
 
 This collection of repositories (see also my [gitlab/fommil](https://gitlab.com/fommil/) and [gitlab/tseenshe](https://gitlab.com/tseenshe) accounts and [abandoned projects](https://gitlab.com/fommil/attic)) is a small collection of my open source works. Github unfortunately deleted all the stars on the [ENSIME](https://ensime.github.io/) repos, but it was once popular I swear! I also contribute to the iRacing parts of the simracing assistant [CrewChief](https://gitlab.com/mr_belowski/CrewChiefV4/), hope to see you on the track.
