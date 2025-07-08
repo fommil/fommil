@@ -1,4 +1,4 @@
-I like to build complex and highly scalable things in a simple way, and make existing things faster, bigger, and cheaper. I am attracted to technically challenging topics and cross-disciplinary teams. I align with the [Grug Brained Developer](https://grugbrain.dev/) philosophy.
+I like to build complex things in a simple way, and make existing things faster, bigger, and cheaper. I am attracted to technically challenging topics and cross-disciplinary teams. I align with the [Grug Brained Developer](https://grugbrain.dev/) philosophy.
 
 To download my book about Functional Programming in Scala (6k+ readers), go to [leanpub/fpmortals](https://leanpub.com/fpmortals).
 
