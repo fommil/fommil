@@ -2,7 +2,7 @@ I like to build complex and highly scalable things in a simple way, and make exi
 
 To download my book about Functional Programming in Scala (6k+ readers), go to [leanpub/fpmortals](https://leanpub.com/fpmortals).
 
-This collection of repositories (see also my [gitlab/fommil](https://gitlab.com/fommil/) and [gitlab/tseenshe](https://gitlab.com/tseenshe) accounts and [abandoned projects](https://gitlab.com/fommil/attic)) is an example of my contributions to open source. Github unfortunately deleted all the stars on the [ENSIME](https://ensime.github.io/) repos, but it was once popular... I swear! I also contribute to the iRacing parts of the simracing assistant [CrewChief](https://gitlab.com/mr_belowski/CrewChiefV4/), hope to see you on the track.
+This collection of repositories (see also my [gitlab/fommil](https://gitlab.com/fommil/) and [gitlab/tseenshe](https://gitlab.com/tseenshe) accounts and [abandoned projects](https://gitlab.com/fommil/attic)) is an example of my contributions to open source. I contribute to the iRacing parts of the simracing assistant [CrewChief](https://gitlab.com/mr_belowski/CrewChiefV4/), hope to see you on the track.
 
 I'm currently hacking on projects in digital electronics (digressions when building an [8-bit computer from transistors](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)), 3d printing, and astronomy (super simple data capture and auto guiding), exercising my C++ muscles. I'll make them public when they hit an MVP.
 
