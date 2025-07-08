@@ -1,6 +1,4 @@
-I like to build complex and highly scalable things in a simple way, and make existing things run faster, bigger, and cheaper. I am attracted to technically challenging topics and cross-disciplinary teams.
-
-I align closely with the [Grug Brained Developer](https://grugbrain.dev/) philosophy of keeping conceptual load low so that the brain can focus on solving the most important part of the problem with a simple and elegant solution that is easy to maintain.
+I like to build complex and highly scalable things in a simple way, and make existing things run faster, bigger, and cheaper. I am attracted to technically challenging topics and cross-disciplinary teams. I align with the [Grug Brained Developer](https://grugbrain.dev/) philosophy.
 
 To see my work experience, go to [linkedin/samhalliday](https://www.linkedin.com/in/samhalliday/).
 
