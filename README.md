@@ -1,4 +1,14 @@
-## Hi there 👋
+I like to build complex and highly scalable things in a simple way, and make existing things run faster, bigger, and cheaper. I am attracted to technically challenging topics and cross-disciplinary teams.
+
+I align closely with the [Grug Brained Developer](https://grugbrain.dev/) philosophy of keeping conceptual load low so that the brain can focus on solving the most important part of the problem with a simple and elegant solution that is easy to maintain.
+
+To see my work experience, go to [linkedin/samhalliday](https://www.linkedin.com/in/samhalliday/).
+
+To download my book about Functional Programming in Scala (6k+ readers), go to [leanpub/fpmortals](https://leanpub.com/fpmortals).
+
+This collection of repositories (see also my [gitlab/fommil](https://gitlab.com/fommil/) and [gitlab/tseenshe](https://gitlab.com/tseenshe) accounts and [abandoned projects](https://gitlab.com/fommil/attic)) is a small collection of my open source works.
+
+I'm currently hacking on projects in digital electronics and astronomy (data capture, guiding). I'll make them public when they hit an MVP.
 
 <!--
 **fommil/fommil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
