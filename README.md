@@ -1,4 +1,4 @@
-I like to build complex things in a simple way, and make existing things better, faster, stronger and cheaper. I am attracted to technically challenging topics and cross-disciplinary teams. I'm a [Grug Brained Developer](https://grugbrain.dev/).
+I like to build complex things in a simple way, and to make existing things better, faster, stronger and cheaper. I am attracted to technically challenging topics and cross-disciplinary teams. I'm a [Grug Brained Developer](https://grugbrain.dev/).
 
 To download my book about Functional Programming (6k+ readers), go to [leanpub/fpmortals](https://leanpub.com/fpmortals).
 
