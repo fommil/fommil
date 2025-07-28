@@ -4,4 +4,4 @@ To read or download my book about Functional Programming (6k+ readers), go to [l
 
 I'm currently hacking on projects in digital electronics ([8-bit computer from transistors](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)), analog neuromorphic ideas, 3D printing, and astronomy (image capture and auto-guiding).
 
-I have a strong backgound in Java, Scala, Lisp, and Haskell; but I tend to prefer to build things in Rust, Python, and C++ on the grounds of tooling, popularity, performance, and cost at scale. I'm a [Grug Brained Developer](https://grugbrain.dev/).
+I have a strong backgound in Java, Scala, Lisp, Haskell, and Golang; but I tend to prefer to build things in Rust, Python, and C++ on the grounds of tooling, popularity, performance, and cost at scale. I'm a [Grug Brained Developer](https://grugbrain.dev/).
